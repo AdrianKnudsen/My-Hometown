@@ -4,7 +4,7 @@
 body {
     color: whitesmoke;
     text-align: center;
-    font-family: raleway; sans-serif;
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background: linear-gradient(whitesmoke, #a9d6e5);
 
 }
@@ -42,7 +42,7 @@ body {
     position: relative;
     width: 100%;
     height: 15vh;
-    margin-bottom: -230px; 
+    margin-bottom: -255px; 
     min-height: 90px;
     max-height: 120px;
   }
@@ -85,8 +85,6 @@ body {
 
   h2 {
     margin-top: 0px;
-    width: 50%;
-    margin-left: 25%;
     
   }
 
