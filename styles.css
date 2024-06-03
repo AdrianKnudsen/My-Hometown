@@ -1,4 +1,6 @@
 
+
+
 body {
     color: whitesmoke;
     text-align: center;
@@ -6,6 +8,12 @@ body {
     background: linear-gradient(whitesmoke, #a9d6e5);
 
 }
+
+p {
+  letter-spacing: 1.3px;
+  line-height: 1.1;
+}
+
 
 #hero {
     background-image: url("images/bryggen.jpeg");
@@ -189,3 +197,4 @@ body {
     transform: scale(1.3);
 
 }
+
